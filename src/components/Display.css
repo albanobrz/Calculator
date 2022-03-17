@@ -1,0 +1,10 @@
+.display {
+    grid-column: span 4;
+    background-color: rgb(37, 37, 37);
+
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    padding: 22px;
+    font-size: 2.1em;
+}

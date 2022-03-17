@@ -1,0 +1,25 @@
+@font-face {
+  font-family: 'RobotoMono';
+  src: url('./fonts/RobotoMono-VariableFont_wght.ttf');
+}
+
+* {
+  font-family: 'RobotoMono', monospace;
+
+}
+
+body {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  color: white;
+  background: linear-gradient(to right, rgb(83, 105, 118), rgb(30, 34, 56));
+}
+
+
+
+/* O * é o seletor universal que seleciona todos os componentes*/
+/* O gradiente pega em sites */
