@@ -1,5 +1,5 @@
-## React Calculator project
+# React Calculator project
 
-# Basic calculator, made for practicing purposes :)
+## Basic calculator, made for practicing purposes :)
 
 
